@@ -18,7 +18,7 @@ export const ProfileContainer = styled.section`
   align-items: center;
   color: ${sty_labelLightL1};
   font-size: 16px;
-  text-align: cneter;
+  text-align: center;
 `
 
 export const ProfileUserName = styled.div`
